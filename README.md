@@ -29,15 +29,7 @@ Flexbox layout
 Media queries
 Global reset with box-sizing: border-box
 
-📁 File Structure
-bash
-Copy
-Edit
-index.html         # Main HTML file with embedded CSS
-132A0741_websize.jpg    # Image for women's clothing section
-Untitled design_1.jpg   # Image for men's clothing section
-
 📸 Screenshots
 Desktop View ![image alt](https://github.com/Pratiksha-Rawat29/clothingwebrepo/blob/main/Screenshot_30-5-2025_185016_127.0.0.1.jpeg?raw=true)
-Mobile View
+Mobile View ![image alt](https://github.com/Pratiksha-Rawat29/clothingwebrepo/blob/main/127.0.0.1_5500_taskthree_newwebsite.html(iPhone%2014%20Pro%20Max)%20(4).png?raw=true)
 	
