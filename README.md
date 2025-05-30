@@ -38,6 +38,6 @@ index.html         # Main HTML file with embedded CSS
 Untitled design_1.jpg   # Image for men's clothing section
 
 📸 Screenshots
-Desktop View	
+Desktop View ![image alt](https://github.com/Pratiksha-Rawat29/clothingwebrepo/blob/main/Screenshot_30-5-2025_185016_127.0.0.1.jpeg?raw=true)
 Mobile View
 	
